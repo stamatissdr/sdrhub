@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sdrhub
 - 👀 I’m interested in god knows what.
-- 🌱 I’m currently learning god knows what.
+- 🌱 I’m currently studying Computer Science at the International Hellenic University.(god knows why)
 - 💞️ I’m looking to collaborate on god knows what.
-- 📫 How to reach me email: sidiras.stamatis@gmail.com (god knows if imma see it).
+- 📫 Reach me through email: sidiras.stamatis@gmail.com (god knows if imma see it).
 
 <!---
 sdrhub/sdrhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
