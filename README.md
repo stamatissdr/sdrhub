@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sdrhub
-- 👀 I’m interested in god knows what.
-- 🌱 I’m currently studying Computer Science at the International Hellenic University.(god knows why)
-- 💞️ I’m looking to collaborate on god knows what.
+- 👀 I’m interested in Information Technology.
+- 🌱 I’m currently studying Computer Science at the International Hellenic University.
 - 📫 Reach me through email: sidiras.stamatis@gmail.com .
 
 <!---
